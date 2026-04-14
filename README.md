@@ -74,6 +74,7 @@ I learn fast, adapt quickly, and enjoy working across the full stack.
 
 <hr/>
 
+<!-- I'll reenable this section after self hosting the stats app
 <h2>📊 Languages<h2>
 
 <p align="center">
@@ -81,6 +82,7 @@ I learn fast, adapt quickly, and enjoy working across the full stack.
 </p>
 
 <hr/>
+-->
 
 <h2>📫 Contact</h2>
 
