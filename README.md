@@ -74,15 +74,16 @@ I learn fast, adapt quickly, and enjoy working across the full stack.
 
 <hr/>
 
-<!-- I'll reenable this section after self hosting the stats app
-<h2>📊 Languages<h2>
+<h2>📊 Languages</h2>
+  
+> [!note]
+> Not really representative because doesn't show what I use for work but it looks cool and I need a reason to self host the github stats server.
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jorgementx&layout=compact&theme=tokyonight" />
+  <img src="https://stats.jorge.men/api/top-langs/?username=jorgementx&hide=jupyter%20notebook&layout=compact&theme=tokyonight&langs_count=12" />
 </p>
 
 <hr/>
--->
 
 <h2>📫 Contact</h2>
 
