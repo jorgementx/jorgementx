@@ -17,7 +17,6 @@ I learn fast, adapt quickly, and enjoy working across the full stack.
   <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/uv-3B82F6?logo=python&logoColor=white" />
@@ -38,6 +37,7 @@ I learn fast, adapt quickly, and enjoy working across the full stack.
 <h3><b>At some point I also worked with</b></h3>
 
 <p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white" />
@@ -77,7 +77,7 @@ I learn fast, adapt quickly, and enjoy working across the full stack.
 <h2>📊 Languages<h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgementx&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jorgementx&layout=compact&theme=tokyonight" />
 </p>
 
 <hr/>
